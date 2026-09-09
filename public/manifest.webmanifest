@@ -1,0 +1,10 @@
+{
+  "name": "GhanaBuild Field Inspection",
+  "short_name": "GhanaBuild Field",
+  "start_url": "/field-inspections",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#0f172a",
+  "description": "Offline field inspection capture for GhanaBuild infrastructure projects.",
+  "icons": [{ "src": "/icons/gh-build.svg", "sizes": "any", "type": "image/svg+xml" }]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "GhanaBuild",
+  "description": "Public infrastructure transparency, monitoring, and accountability platform for Ghana.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
